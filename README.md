@@ -7,14 +7,14 @@ Auto-disappear after 5 seconds
 
 Icons included via Font Awesome
 
-#Files
+##Files
 index.html — Main structure
 
 style.css — Styling and animations
 
 script.js — Toast logic
 
-#Setup
+##Setup
 Clone or download the files
 
 Open index.html in your browser
